@@ -1,15 +1,15 @@
 import 'package:beamer/beamer.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:nayis_home/scaffold/appbar/custom_app_bar.dart';
-import 'package:nayis_home/scaffold/drawer.dart';
-import 'package:nayis_home/scaffold/ending_container_desktop.dart';
-import 'package:nayis_home/scaffold/fab.dart';
-import '../decoration/dividers.dart';
-import '../carousel_sliders/image_editor_home_carousel.dart';
+import 'package:nayis_home/components/scaffold/appbar/custom_app_bar.dart';
+import 'package:nayis_home/components/scaffold/drawer.dart';
+import 'package:nayis_home/components/scaffold/ending_container_desktop.dart';
+import 'package:nayis_home/components/scaffold/fab.dart';
+import '../components/decoration/dividers.dart';
+import '../components/carousel_sliders/image_editor_home_carousel.dart';
 import '../model_data/product.dart';
-import '../scaffold/ending_container_mobile.dart';
-import '../carousel_sliders/carouselxmobile.dart';
+import '../components/scaffold/ending_container_mobile.dart';
+import '../components/carousel_sliders/carouselxmobile.dart';
 
 class ProductXMobile extends StatelessWidget {
   const ProductXMobile({required this.index, required this.product, Key? key})

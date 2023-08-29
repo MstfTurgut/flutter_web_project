@@ -1,18 +1,18 @@
 import 'package:beamer/beamer.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:nayis_home/component_widgets/featuring_products/showup_list_buttons.dart';
-import 'package:nayis_home/scaffold/appbar/custom_app_bar_sliver.dart';
-import 'package:nayis_home/scaffold/drawer.dart';
-import 'package:nayis_home/scaffold/fab.dart';
-import 'package:nayis_home/carousel_sliders/carousel_slider_home.dart';
+import 'package:nayis_home/components/component_widgets/featuring_products/showup_list_buttons.dart';
+import 'package:nayis_home/components/scaffold/appbar/custom_app_bar_sliver.dart';
+import 'package:nayis_home/components/scaffold/drawer.dart';
+import 'package:nayis_home/components/scaffold/fab.dart';
+import 'package:nayis_home/components/carousel_sliders/carousel_slider_home.dart';
 import 'package:animated_text_kit/animated_text_kit.dart';
-import 'package:nayis_home/component_widgets/featuring_products/product_showup_desktop.dart';
-import 'package:nayis_home/component_widgets/why_icons/why_nayis_desktop_row.dart';
-import 'package:nayis_home/component_widgets/why_icons/why_nayis_mobile_column.dart';
-import '../decoration/dividers.dart';
-import '../scaffold/ending_container_desktop.dart';
-import '../scaffold/ending_container_mobile.dart';
+import 'package:nayis_home/components/component_widgets/featuring_products/product_showup_desktop.dart';
+import 'package:nayis_home/components/component_widgets/why_icons/why_nayis_desktop_row.dart';
+import 'package:nayis_home/components/component_widgets/why_icons/why_nayis_mobile_column.dart';
+import '../components/decoration/dividers.dart';
+import '../components/scaffold/ending_container_desktop.dart';
+import '../components/scaffold/ending_container_mobile.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);

@@ -1,7 +1,7 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
-import 'package:nayis_home/carousel_sliders/image_editor_home_carousel.dart';
-import '../model_data/product_data.dart';
+import 'package:nayis_home/components/carousel_sliders/image_editor_home_carousel.dart';
+import '../../model_data/product_data.dart';
 
 class MyCarouselSlider extends StatefulWidget {
   const MyCarouselSlider({super.key});

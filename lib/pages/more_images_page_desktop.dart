@@ -1,13 +1,13 @@
 import 'package:beamer/beamer.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:nayis_home/scaffold/appbar/custom_app_bar.dart';
-import 'package:nayis_home/scaffold/drawer.dart';
-import 'package:nayis_home/scaffold/fab.dart';
-import 'package:nayis_home/decoration/image_with_frame.dart';
-import '../decoration/dividers.dart';
-import '../scaffold/ending_container_desktop.dart';
-import '../scaffold/ending_container_mobile.dart';
+import 'package:nayis_home/components/scaffold/appbar/custom_app_bar.dart';
+import 'package:nayis_home/components/scaffold/drawer.dart';
+import 'package:nayis_home/components/scaffold/fab.dart';
+import 'package:nayis_home/components/decoration/image_with_frame.dart';
+import '../components/decoration/dividers.dart';
+import '../components/scaffold/ending_container_desktop.dart';
+import '../components/scaffold/ending_container_mobile.dart';
 
 class MoreImagesPageDesktop extends StatelessWidget {
   final String productName;

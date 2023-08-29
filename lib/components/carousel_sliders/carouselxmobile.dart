@@ -1,6 +1,6 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
-import 'package:nayis_home/decoration/border_painter.dart';
+import 'package:nayis_home/components/decoration/border_painter.dart';
 import '../decoration/themes.dart';
 
 class CarouselXMobile extends StatefulWidget {

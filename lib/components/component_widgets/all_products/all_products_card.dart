@@ -1,7 +1,7 @@
 import 'package:beamer/beamer.dart';
 import 'package:flutter/material.dart';
 import '../../decoration/border_painter.dart';
-import '../../model_data/product.dart';
+import '../../../model_data/product.dart';
 import '../../decoration/themes.dart';
 
 

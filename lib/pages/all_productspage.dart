@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:nayis_home/scaffold/appbar/custom_app_bar_sliver.dart';
-import 'package:nayis_home/scaffold/drawer.dart';
-import 'package:nayis_home/scaffold/ending_container_desktop.dart';
-import 'package:nayis_home/scaffold/ending_container_mobile.dart';
-import 'package:nayis_home/scaffold/fab.dart';
-import 'package:nayis_home/component_widgets/all_products/all_products_desktop_column.dart';
-import 'package:nayis_home/component_widgets/all_products/all_products_mobile_column.dart';
-import '../decoration/dividers.dart';
+import 'package:nayis_home/components/scaffold/appbar/custom_app_bar_sliver.dart';
+import 'package:nayis_home/components/scaffold/drawer.dart';
+import 'package:nayis_home/components/scaffold/ending_container_desktop.dart';
+import 'package:nayis_home/components/scaffold/ending_container_mobile.dart';
+import 'package:nayis_home/components/scaffold/fab.dart';
+import 'package:nayis_home/components/component_widgets/all_products/all_products_desktop_column.dart';
+import 'package:nayis_home/components/component_widgets/all_products/all_products_mobile_column.dart';
+import '../components/decoration/dividers.dart';
 
 
 class AllProductsPage extends StatelessWidget {

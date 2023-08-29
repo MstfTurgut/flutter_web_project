@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:nayis_home/decoration/dividers.dart';
+import 'package:nayis_home/components/decoration/dividers.dart';
 import '../model_data/product_data.dart';
-import '../scaffold/appbar/custom_app_bar.dart';
-import '../scaffold/drawer.dart';
-import '../scaffold/ending_container_desktop.dart';
-import '../scaffold/ending_container_mobile.dart';
-import '../scaffold/fab.dart';
+import '../components/scaffold/appbar/custom_app_bar.dart';
+import '../components/scaffold/drawer.dart';
+import '../components/scaffold/ending_container_desktop.dart';
+import '../components/scaffold/ending_container_mobile.dart';
+import '../components/scaffold/fab.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import '../decoration/image_with_frame.dart';
+import '../components/decoration/image_with_frame.dart';
 
 class StorePage extends StatefulWidget {
   const StorePage({Key? key}) : super(key: key);

@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:nayis_home/scaffold/appbar/custom_app_bar.dart';
-import 'package:nayis_home/scaffold/drawer.dart';
-import 'package:nayis_home/scaffold/ending_container_desktop.dart';
+import 'package:nayis_home/components/scaffold/appbar/custom_app_bar.dart';
+import 'package:nayis_home/components/scaffold/drawer.dart';
+import 'package:nayis_home/components/scaffold/ending_container_desktop.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:url_launcher/url_launcher.dart';
-import '../decoration/dividers.dart';
-import '../scaffold/ending_container_mobile.dart';
+import '../components/decoration/dividers.dart';
+import '../components/scaffold/ending_container_mobile.dart';
 
 class ContactPage extends StatelessWidget {
   const ContactPage({Key? key}) : super(key: key);

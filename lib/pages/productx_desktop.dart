@@ -2,13 +2,13 @@ import 'package:beamer/beamer.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:nayis_home/model_data/product.dart';
-import 'package:nayis_home/scaffold/appbar/custom_app_bar.dart';
-import 'package:nayis_home/scaffold/drawer.dart';
-import 'package:nayis_home/scaffold/ending_container_desktop.dart';
-import 'package:nayis_home/carousel_sliders/carouselxdesktop.dart';
-import '../decoration/dividers.dart';
-import '../carousel_sliders/image_editor_home_carousel.dart';
-import '../scaffold/ending_container_mobile.dart';
+import 'package:nayis_home/components/scaffold/appbar/custom_app_bar.dart';
+import 'package:nayis_home/components/scaffold/drawer.dart';
+import 'package:nayis_home/components/scaffold/ending_container_desktop.dart';
+import 'package:nayis_home/components/carousel_sliders/carouselxdesktop.dart';
+import '../components/decoration/dividers.dart';
+import '../components/carousel_sliders/image_editor_home_carousel.dart';
+import '../components/scaffold/ending_container_mobile.dart';
 
 class ProductXDesktop extends StatelessWidget {
 

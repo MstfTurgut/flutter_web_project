@@ -1,8 +1,8 @@
 import 'package:beamer/beamer.dart';
 import 'package:flutter/material.dart';
-import 'package:nayis_home/component_widgets/featuring_products/showup_list_buttons.dart';
-import 'package:nayis_home/component_widgets/featuring_products/showup_widget_desktop.dart';
-import 'package:nayis_home/component_widgets/featuring_products/showup_widget_mobile.dart';
+import 'package:nayis_home/components/component_widgets/featuring_products/showup_list_buttons.dart';
+import 'package:nayis_home/components/component_widgets/featuring_products/showup_widget_desktop.dart';
+import 'package:nayis_home/components/component_widgets/featuring_products/showup_widget_mobile.dart';
 import 'package:nayis_home/model_data/product_data.dart';
 import 'package:scroll_to_index/scroll_to_index.dart';
 

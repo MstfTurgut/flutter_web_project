@@ -1,12 +1,12 @@
 import 'package:beamer/beamer.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:nayis_home/scaffold/appbar/custom_app_bar_sliver.dart';
-import 'package:nayis_home/scaffold/drawer.dart';
-import 'package:nayis_home/scaffold/fab.dart';
-import '../decoration/dividers.dart';
-import '../scaffold/ending_container_mobile.dart';
-import '../decoration/image_with_frame.dart';
+import 'package:nayis_home/components/scaffold/appbar/custom_app_bar_sliver.dart';
+import 'package:nayis_home/components/scaffold/drawer.dart';
+import 'package:nayis_home/components/scaffold/fab.dart';
+import '../components/decoration/dividers.dart';
+import '../components/scaffold/ending_container_mobile.dart';
+import '../components/decoration/image_with_frame.dart';
 
 class MoreImagesPageMobile extends StatelessWidget {
   final List<String>? moreImagesList;
